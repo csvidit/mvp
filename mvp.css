@@ -197,6 +197,10 @@ h6 {
     line-height: var(--line-height);
 }
 
+h1{
+	text-align: center;
+}
+
 mark {
     padding: 0.1rem;
 }
